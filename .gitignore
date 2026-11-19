@@ -11,6 +11,7 @@
 
 # Planes guardados: pueden contener datos sensibles
 *.tfplan
+tfplan
 
 # Registros de errores de Terraform
 crash.log
